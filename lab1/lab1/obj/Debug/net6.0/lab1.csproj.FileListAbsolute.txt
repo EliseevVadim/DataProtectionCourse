@@ -1,0 +1,15 @@
+D:\DataProtection\lab1\lab1\bin\Debug\net6.0\lab1.exe
+D:\DataProtection\lab1\lab1\bin\Debug\net6.0\lab1.deps.json
+D:\DataProtection\lab1\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+D:\DataProtection\lab1\lab1\bin\Debug\net6.0\lab1.dll
+D:\DataProtection\lab1\lab1\bin\Debug\net6.0\ref\lab1.dll
+D:\DataProtection\lab1\lab1\bin\Debug\net6.0\lab1.pdb
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\lab1.dll
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\ref\lab1.dll
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\lab1.pdb
+D:\DataProtection\lab1\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
