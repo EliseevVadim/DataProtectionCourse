@@ -1,0 +1,24 @@
+﻿using lab2;
+using lab2.Utils;
+
+string rusText = "Елисеев Вадим Олегович";
+string rusKey = "жесрэсиииьвс";
+VigenereCipher rusCipther = new VigenereCipher(Languages.Russian);
+Console.WriteLine("Зашифрованный текст на русском:");
+rusText = rusCipther.Encrypt(rusText, rusKey);
+Console.WriteLine(rusText);
+rusText = rusCipther.Decrypt(rusText, rusKey);
+Console.WriteLine();
+Console.WriteLine("Расшифрованный текст на русском:");
+Console.WriteLine(rusText);
+Console.WriteLine();
+string engText = "Eliseev Vadim Olegovich";
+string engKey = "yeqqedsdnmbgrb";
+VigenereCipher engCipther = new VigenereCipher(Languages.English);
+Console.WriteLine("Зашифрованный текст на английском:");
+engText = engCipther.Encrypt(engText, engKey);
+Console.WriteLine(engText);
+engText = engCipther.Decrypt(engText, engKey);
+Console.WriteLine();
+Console.WriteLine("Расшифрованный текст на английском:");
+Console.WriteLine(engText);
