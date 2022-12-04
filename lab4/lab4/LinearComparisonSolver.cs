@@ -32,9 +32,8 @@
                     rootAnswer = (x * _b) % n;
                     for (int i = rootAnswer; i < _n; i += n)
                     {
-                        if (i < _n)
+                        if (i < _n && i >= 0)
                             answers.Add(i);
-
                     }
                     return new ComparisonSolution
                     {
